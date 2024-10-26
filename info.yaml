@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     57844955       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     412829184121247745       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "one-bit-comparator"      # Project title
   author:       "Aaron Wang"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
