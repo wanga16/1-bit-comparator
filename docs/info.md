@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses logic gates to deliver different outputs based on the input states.
 
 ## How to test
 
-Explain how to use your project
+have both input 1 and 2 true or false, output 2 should be true. 
+have 1 false and 2 true, output 1 should be true
+have 1 ture and 2 false, output 3 should be true
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 LEDs to test proper output based on all possible outs 
